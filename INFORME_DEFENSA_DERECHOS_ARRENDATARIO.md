@@ -36,6 +36,8 @@
    - 4.12 [Proteccion Contra Desalojo Retaliatorio](#412-proteccion-contra-desalojo-retaliatorio)
    - 4.13 [Carga de la Prueba para Aumento de Renta — Art. 2738](#413-carga-de-la-prueba-para-aumento-de-renta--art-2738-nunca-la-cumplio)
    - 4.14 [Derecho de Preferencia — Art. 2708 (Arrendamiento de 5+ Anos con Mejoras)](#414-derecho-de-preferencia--art-2708-arrendamiento-de-5-anos-con-mejoras)
+   - 4.15 [Responsabilidad Notarial bajo la Ley del Notariado](#415-responsabilidad-notarial-bajo-la-ley-del-notariado-para-el-estado-de-quintana-roo)
+   - 4.16 [Clausulas de Permanencia y Penalidad de Doble Renta — Nulas e Inexistentes](#416-clausulas-de-permanencia-y-penalidad-de-doble-renta--nulas-e-inexistentes)
 5. [Defensas Disponibles para el Arrendatario](#5-defensas-disponibles-para-el-arrendatario)
 6. [Contrademandas Contra el Arrendador](#6-contrademandas-contra-el-arrendador)
 7. [Tabla de Reembolso de Reparaciones](#7-tabla-de-reembolso-de-reparaciones)
@@ -697,6 +699,167 @@ Los $13,500 exigidos en el bait-and-switch representan un aumento del 35% sobre 
 - Esta es una capa adicional de seguridad contra desalojo mediante rearrendamiento a otra persona
 - Combinado con la tacita reconduccion, el arrendatario tiene tanto ocupacion de plazo indefinido COMO derechos de preferencia
 
+### 4.15 Responsabilidad Notarial bajo la Ley del Notariado para el Estado de Quintana Roo
+
+#### 4.15.1 Un Notario Mexicano No Es un Notario Estadounidense
+
+Distincion critica para este caso: un Notario Publico mexicano **no** es equivalente a un notary public estadounidense. En Estados Unidos, un notary simplemente verifica identidad y atestigua firmas. En Mexico, un notario es un **funcionario publico con deberes legales activos** incluyendo:
+
+- **Verificar la legalidad** de cada clausula en los documentos que certifica
+- **Negarse a notarizar** contratos que contengan disposiciones ilegales
+- **Asegurar que todas las partes tengan plena comprension** y consentimiento informado
+- **Certificar que el documento cumple** con la ley aplicable
+- **Proteger a todas las partes** — no solo a la parte que lo contrato
+
+Los notarios mexicanos tienen formacion juridica profesional equivalente a un abogado y se espera que ejerzan esa pericia activamente. Son guardianes de la legalidad.
+
+#### 4.15.2 La Obligacion del Notario de Verificar la Legalidad de las Clausulas Contractuales
+
+Bajo la **Ley del Notariado para el Estado de Quintana Roo**, los notarios estan expresamente obligados a negarse a autorizar actos contrarios a la ley o al orden publico. Esto no es discrecional — es una obligacion profesional obligatoria.
+
+Cuando el notario certifico el contrato de arrendamiento conteniendo una clausula que hace al arrendatario responsable de todo el mantenimiento — una clausula que contradice directamente el **Art. 2687** del Codigo Civil (obligaciones obligatorias de mantenimiento del arrendador) — el notario tenia la **obligacion legal de negarse a certificar esa clausula** o, como minimo, senalarla explicitamente y explicar sus implicaciones legales a ambas partes.
+
+El notario no hizo ninguna de las dos cosas. Certifico una clausula ilegal como valida.
+
+#### 4.15.3 Los Incumplimientos Especificos del Notario en Este Caso
+
+Los incumplimientos del notario son acumulativos y graves:
+
+| # | Incumplimiento | Ley Aplicable |
+|---|----------------|---------------|
+| 1 | **Certifico una clausula ilegal de mantenimiento** que contradice el Art. 2687 | Ley del Notariado — deber de rechazar actos ilegales |
+| 2 | **Procedio sin asegurar la comprension** de un no hispanohablante | Ley del Notariado — deber de verificar comprension; Art. 383(d) |
+| 3 | **No proporciono ni requirio interpretacion** para un nacional extranjero | Ley del Notariado — deber de cuidado hacia todas las partes |
+| 4 | **Apresuro el proceso de firma** sin tiempo adecuado para revision | Art. 220 — deber de "cerciorarse" de la capacidad |
+| 5 | **No entrego copia** a todas las partes | Ley del Notariado — obligaciones de entrega |
+| 6 | **Conflicto de intereses** — elegido y dirigido por la arrendadora, pagado por el arrendatario | Reglas de etica profesional |
+
+Cada uno de estos es una **violacion profesional independiente**. Juntos representan un incumplimiento grave del deber notarial.
+
+#### 4.15.4 Marco Regulatorio Aplicable
+
+Los notarios mexicanos estan regulados por tres autoridades superpuestas:
+
+1. **Ley del Notariado para el Estado de Quintana Roo** — la ley notarial estatal, que define las obligaciones profesionales, deberes de cuidado y causales de accion disciplinaria
+2. **Colegio de Notarios de Quintana Roo** — el organo disciplinario profesional que investiga quejas y puede imponer sanciones incluyendo suspension o revocacion de la patente del notario
+3. **Codigo Civil de Quintana Roo** — especificamente los Arts. 87, 98 y 220 sobre responsabilidad profesional, y Arts. 383(d), 384, 388 sobre nulidad por falta de consentimiento informado
+
+La ley notarial requiere expresamente que los notarios se nieguen a autorizar actos contrarios a la ley o al orden publico. Certificar una clausula que viola el Art. 2687 (mantenimiento obligatorio del arrendador) y certificar un documento firmado por una parte que no comprendia el idioma (Art. 383(d)) son exactamente el tipo de actos que el notario estaba obligado a rechazar.
+
+#### 4.15.5 Por Que Esto Importa para el Caso
+
+Las clausulas ilegales en el contrato no solo son anulables — probablemente nunca debieron haber sido certificadas.
+
+**Argumentos legales derivados del incumplimiento notarial:**
+
+1. **La clausula es nula bajo el Art. 13** — contraria al orden publico (las normas de orden publico son irrenunciables)
+2. **El notario tenia un deber independiente de detectarla y rechazarla** — su omision es conducta profesional indebida
+3. **El arrendatario pago los honorarios del notario** — el notario le debia un deber directo de proteccion
+4. **La certificacion del notario crea una apariencia falsa de legalidad** — el arrendatario confiaba razonablemente en el rol profesional del notario como garantia de que el contrato era legal
+5. **El notario es independientemente responsable bajo el Art. 98** — los profesionales que causan dano en el ejercicio de sus funciones son responsables de danos y perjuicios
+
+#### 4.15.6 El Proceso de Queja — Colegio de Notarios de Quintana Roo
+
+Una queja formal ante el Colegio de Notarios de Quintana Roo:
+
+- **No cuesta nada** presentarla
+- Crea **presion profesional significativa** — un notario bajo investigacion enfrenta sanciones potenciales
+- Pone al notario en posicion de **cooperar en lugar de enfrentar procedimientos disciplinarios**
+- Un notario con queja tiene fuerte incentivo para **reconocer las fallas procedimentales** en lugar de defenderlas
+- Ese reconocimiento se convierte en **evidencia poderosa** en cualquier procedimiento legal subsiguiente
+
+**Como presentarla:**
+1. Redactar una queja formal escrita dirigida al Colegio de Notarios de Quintana Roo
+2. Identificar al notario (Notario Publico No. 67, Luis Palacios, Cancun)
+3. Detallar cada incumplimiento especifico (ver tabla en 4.15.3)
+4. Adjuntar evidencia: el contrato mismo (mostrando clausulas ilegales), mensajes de WhatsApp (mostrando la barrera idiomatica), y cualquier prueba de que el arrendatario pago los honorarios del notario
+5. Solicitar: investigacion por conducta profesional indebida, y que el Colegio requiera al notario proporcionar copias certificadas de todos los instrumentos en el protocolo notarial relacionados con este arrendamiento
+
+**Valor estrategico:** Incluso antes de que la queja se resuelva formalmente, el mero hecho de presentarla cambia la dinamica. El notario — que ha sido el aliado documental de la arrendadora — se convierte en una responsabilidad potencial. El incentivo del notario cambia de proteger los intereses de la arrendadora a proteger su propia patente.
+
+### 4.16 Clausulas de Permanencia y Penalidad de Doble Renta — Nulas e Inexistentes
+
+#### 4.16.1 La Clausula en Cuestion
+
+Los contratos de la arrendadora contienen una clausula de "Pena Convencional" (Clausula 13 / Decima Tercera) que impone **doble renta** (2x la renta mensual) como penalidad. El contrato bait-and-switch de 2026 agrego un nuevo parrafo de permanencia:
+
+> *"Ahora bien, si la Arrendadora tuviere que promover la desocupacion por haber vencido el Contrato, los Arrendatarios pagaran la Pena Convencional por cada mes de ocupacion posterior al vencimiento, independientemente de la Contraprestacion que se continue devengando **sin que el Contrato se considere renovado.**"*
+
+Esta clausula intenta tres cosas simultaneamente:
+1. Imponer **doble renta** ($27,000/mes) por permanecer despues del vencimiento del contrato
+2. Extraer esta penalidad **ademas de** la renta regular (no en lugar de ella)
+3. **Derrotar explicitamente la tacita reconduccion** declarando el contrato "no renovado"
+
+Las tres son legalmente indefendibles.
+
+#### 4.16.2 La Tacita Reconduccion Elimina el Periodo de Permanencia en su Totalidad
+
+**Art. 2739** dispone que si el arrendatario continua en posesion despues del vencimiento del arrendamiento y el arrendador no se opone, el arrendamiento se renueva automaticamente por plazo indefinido bajo las mismas condiciones.
+
+Este es un **derecho estatutario** — opera por fuerza de ley, no por acuerdo contractual. Los principios legales clave:
+
+1. **La tacita reconduccion se activa por operacion de ley** (Art. 2739), no por el contrato. Una clausula contractual no puede anular una disposicion estatutaria.
+
+2. **Una vez que la tacita reconduccion se activa, NO HAY "periodo de permanencia."** El arrendatario no esta "permaneciendo indebidamente" — esta ocupando bajo un arrendamiento legalmente renovado. El concepto de permanencia indebida deja de existir porque el arrendamiento continua.
+
+3. **El contrato de la arrendadora vence el 11 de marzo de 2026. La tacita reconduccion se activa el 12 de marzo de 2026.** Desde esa fecha en adelante, el arrendatario ocupa bajo un arrendamiento valido de plazo indefinido a $12,000/mes. No hay vacio, no hay permanencia indebida, no hay vencimiento que active la penalidad.
+
+4. **La clausula "sin que el Contrato se considere renovado" contradice directamente el Art. 2739.** El Codigo Civil dice que el contrato SI se renueva por operacion de ley. La clausula de la arrendadora dice que NO se renueva. El estatuto prevalece. Siempre.
+
+#### 4.16.3 Las Clausulas Punitivas de Permanencia Contradicen los Derechos Estatutarios del Arrendatario — Nulas bajo Art. 13
+
+> **Art. 13:** "Los actos ejecutados contra el tenor de las leyes prohibitivas o de interes publico seran nulos de pleno derecho."
+
+La clausula de penalidad por permanencia es nula por multiples razones independientes:
+
+**Razon 1: Contradice el Art. 2739 (Tacita Reconduccion)**
+El Art. 2739 es una disposicion de proteccion al arrendatario de orden publico. Una clausula contractual que intenta negar un derecho estatutario del arrendatario imponiendo consecuencias punitivas por ejercer ese derecho es contraria a una ley de interes publico y por lo tanto nula bajo el Art. 13.
+
+**Razon 2: Contradice el Art. 2709 (Derechos Irrenunciables)**
+> **Art. 2709:** "Cualquier estipulacion que imponga al arrendatario obligaciones mas onerosas que las expresamente senaladas en este Codigo, sera nula."
+
+El Codigo no impone una penalidad de doble renta por permanecer en posesion despues del vencimiento del arrendamiento — establece la renovacion automatica. Una clausula que impone 2x la renta como penalidad por permanencia es "mas onerosa" de lo que el Codigo requiere y es por lo tanto **nula por mandato estatutario expreso**.
+
+**Razon 3: Contradice el Art. 2738 (Limites de Aumento de Renta)**
+El Art. 2738 limita los aumentos de renta al 10% anual y requiere que el arrendador pruebe la justificacion de mercado. Una clausula que duplica la renta de la noche a la manana de $13,500 a $27,000 (o de $12,000 a $24,000) elude el tope estatutario de aumentos de renta. Es un aumento disfrazado del 100%, que excede con creces el maximo legal del 10%.
+
+**Razon 4: La Clausula es Leonina (Art. 24)**
+> **Art. 24:** Los actos que explotan la extrema ignorancia o inexperiencia para obtener lucro excesivo y desproporcionado son nulos.
+
+Una penalidad que duplica la renta — cobrable mensualmente, ademas de la renta regular, creando una obligacion potencial de $27,000+ por mes — es "evidentemente desproporcionado," especialmente cuando se impone a un arrendatario que demostrablemente nunca comprendio la clausula.
+
+#### 4.16.4 Un No Hispanohablante No Puede Estar Obligado por Clausulas Penales que Nunca Supo que Existian
+
+Este es el argumento mas fuerte de todos, y se superpone perfectamente con el analisis de barrera idiomatica de la Seccion 4.1:
+
+**Capa 1: La voluntad nunca existio (Art. 383(d))**
+Una persona que no conoce el idioma del contrato no tiene manifestacion de voluntad. Si la voluntad no existe, la clausula penal no tiene fuerza vinculante. Esta es nulidad absoluta — imprescriptible, irrenunciable e incurable.
+
+**Capa 2: El contrato nunca fue entregado al arrendatario**
+La arrendadora nunca dio al arrendatario una copia del contrato firmado. El arrendatario nunca ha tenido la oportunidad de leer la clausula penal ni siquiera con la ayuda de un traductor. No se puede hacer cumplir una penalidad contra alguien a quien nunca se le entrego el documento que la contiene.
+
+**Capa 3: La clausula fue agregada sin divulgacion (Ano 2)**
+El parrafo de penalidad por permanencia **no estaba presente** en el contrato del Ano 1 (2022). Fue agregado en el contrato del Ano 2 (2023) — el mismo contrato donde la arrendadora dijo a los arrendatarios "solo cambio el precio." Los arrendatarios fueron activamente enganados sobre la existencia de esta clausula.
+
+**Capa 4: No habia abogado presente cuando se introdujo la clausula**
+El Ano 1 se firmo con el abogado del arrendatario presente. El Ano 2 — cuando se agrego la penalidad por permanencia — se firmo **sin abogado**. La arrendadora espero a que el abogado estuviera ausente para introducir la clausula punitiva, mientras falsamente aseguraba a los arrendatarios que "nada cambio excepto el precio."
+
+**Capa 5: La firma fue apresurada**
+El contrato del Ano 2 fue enviado la manana de la firma (6/3/23 a las 9:26 AM), con la cita esa misma tarde. Incluso un hispanohablante no habria tenido tiempo adecuado para una revision significativa. Para un no hispanohablante sin abogado, la revision era imposible.
+
+**Efecto combinado:** La clausula penal falla en todos los niveles — invalidez estatutaria (Arts. 13, 2709, 2738, 2739), vicio del consentimiento (Art. 383(d)), dolo en la formacion (Art. 198), y desproporcion leonina (Art. 24). Es inejecutable bajo cualquier teoria.
+
+#### 4.16.5 Comparacion de Clausulas Penales Entre Contratos
+
+| Elemento | Ano 1 (2022) | Ano 2 (2023) | 2026 Bait-and-Switch |
+|----------|-------------|-------------|---------------------|
+| **Penalidad de doble renta** | Si — solo por incumplimientos de Clausula 9 | Si — solo por incumplimientos de Clausula 9 | Si — por incumplimientos de Clausula 9 |
+| **Penalidad por permanencia** | **NO PRESENTE** | **AGREGADA** (no divulgada) | Si — con lenguaje anti-reconduccion |
+| **Clausula anti-reconduccion** | **NO PRESENTE** | **NO PRESENTE** | **AGREGADA** — "sin que el Contrato se considere renovado" |
+| **Divulgado al arrendatario** | No (barrera idiomatica) | No (idioma + "solo cambio el precio") | N/A (arrendatario rechazo firmar) |
+
+La escalada es clara: cada nuevo contrato agrega mas disposiciones punitivas, nunca divulgadas, mientras la arrendadora repite que "nada cambio."
+
 ---
 
 ## 5. DEFENSAS DISPONIBLES PARA EL ARRENDATARIO
@@ -747,8 +910,8 @@ Cualquier reclamacion por diferencias de renta con mas de 2 anos de antiguedad e
 **Evidencia:** Mensajes de WhatsApp documentando promesas hechas e incumplidas
 
 ### Contrademanda 6: Reclamacion de Responsabilidad Profesional Contra el Notario
-**Fundamento legal:** Arts. 87, 98, 220
-**Accion:** Presentar queja ante el Colegio de Notarios de Quintana Roo; demanda civil por danos causados por la negligencia del notario
+**Fundamento legal:** Arts. 87, 98, 220; Ley del Notariado para el Estado de Quintana Roo
+**Accion:** Presentar queja ante el Colegio de Notarios de Quintana Roo; demanda civil por danos causados por la negligencia del notario. El notario certifico clausulas ilegales (violando el Art. 2687), no aseguro la comprension de un no hispanohablante (violando el Art. 383(d) y la Ley del Notariado), y no entrego copias. Ver **Seccion 4.15** para analisis integral de las seis violaciones independientes y el proceso de queja.
 
 ---
 
@@ -837,6 +1000,9 @@ El Art. 2738 impone DOS requisitos obligatorios para cualquier aumento de renta:
 
 ### VENTAJA 18: Derecho de Preferencia del Arrendatario — Art. 2708 (5+ Anos con Mejoras)
 Despues de 5+ anos de arrendamiento con mejoras importantes al inmueble, el Art. 2708 otorga al arrendatario DOS derechos poderosos: (1) **Derecho de preferencia para volver a arrendar** — si la arrendadora quiere arrendar a otra persona, debe ofrecer al arrendatario primero en las mismas condiciones, y (2) **Derecho del tanto para compra** — si la arrendadora quiere vender el inmueble, el arrendatario tiene derecho de preferencia para comprarlo. Los tres requisitos se cumplen: arrendamiento por mas de 5 anos (desde 2021), mejoras significativas realizadas (reparaciones extensas documentadas), e inmueble urbano en Quintana Roo. Esto significa que la arrendadora NO puede simplemente "reemplazarlo" con otro inquilino — legalmente debe ofrecerle a usted primero. Y si decide vender la propiedad, usted tiene derecho a igualar la oferta.
+
+### VENTAJA 19: La Penalidad de Doble Renta por Permanencia es Nula — Cuatro Fundamentos Independientes (Arts. 13, 2709, 2738, 2739)
+El contrato de la arrendadora impone doble renta como "pena convencional" por permanecer despues del vencimiento, y la version bait-and-switch de 2026 establece explicitamente que el contrato NO se considerara renovado. Esta clausula es nula por cuatro fundamentos independientes: (1) contradice el Art. 2739 (la tacita reconduccion opera por ley — el contrato no puede anularla), (2) viola el Art. 2709 (cualquier clausula mas onerosa que el Codigo es nula), (3) elude el Art. 2738 (aumento del 100% disfrazado de penalidad que excede el tope del 10%), y (4) es leonina bajo el Art. 24 (evidentemente desproporcionada). Ademas, el parrafo de permanencia fue agregado secretamente en el Ano 2 mientras la arrendadora dijo al arrendatario "solo cambio el precio" — el arrendatario nunca supo que existia. Ver Seccion 4.16 para analisis completo.
 
 ---
 
@@ -932,7 +1098,7 @@ El **amparo** es un recurso constitucional que puede **detener completamente los
 Presentar una queja formal ante la **Procuraduria Federal del Consumidor** crea un registro publico de la disputa y desencadena un proceso de conciliacion. Multiples quejas de diferentes arrendatarios (si existen otros arrendatarios en el edificio) multiplican la presion dramaticamente.
 
 ### 10.4 Queja ante el Notario (Colegio de Notarios)
-Presentar una queja formal ante el **Colegio de Notarios de Quintana Roo** contra el notario que proceso el contrato no cuesta nada y crea presion significativa. Un notario bajo investigacion profesional se vuelve muy cooperativo. Esto tambien obliga al aliado de documentacion del arrendador a convertirse en un posible problema legal.
+Presentar una queja formal ante el **Colegio de Notarios de Quintana Roo** contra el notario (No. 67, Luis Palacios, Cancun) no cuesta nada y crea presion significativa. El notario cometio **seis violaciones profesionales independientes** (ver Seccion 4.15.3): certificar una clausula ilegal de mantenimiento que contradice el Art. 2687, proceder sin asegurar la comprension de un no hispanohablante, no requerir interpretacion, apresurar la firma, no entregar copias, y operar bajo un conflicto de intereses. Bajo la **Ley del Notariado para el Estado de Quintana Roo**, el notario estaba obligado a negarse a autorizar estos actos. Un notario que enfrenta una queja tiene fuerte incentivo para reconocer las fallas procedimentales en lugar de defenderlas — ese reconocimiento se convierte en evidencia poderosa. Esto tambien obliga al aliado de documentacion de la arrendadora a convertirse en un posible problema legal.
 
 ### 10.5 Inspeccion Municipal de Habitabilidad (Denuncia)
 Presentar una **denuncia** ante las autoridades municipales de Puerto Morelos citando violaciones de habitabilidad (calentador de agua descompuesto, sanitario no funcional, problemas de drenaje) desencadena una inspeccion oficial. Si la propiedad no aprueba, el arrendador enfrenta multas y una orden oficial de reparacion — completamente independiente de la disputa civil.
@@ -1134,7 +1300,7 @@ La posicion legal del arrendatario es excepcionalmente fuerte — y la cronologi
 | **Consentimiento / Voluntad** | 193, 194, 198, 203, 204, 205, 211 |
 | **Idioma / La Voluntad No Existe** | 383(d) |
 | **Clasificacion de Nulidad** | 384, 385, 386, 387, 388, 390, 394, 398, 401 |
-| **Deberes del Notario** | 220 |
+| **Deberes del Notario** | 220; Ley del Notariado para el Estado de Quintana Roo |
 | **Responsabilidad Civil** | 87, 98, 104 |
 | **Orden Publico / Parte Debil** | 8, 13, 21, 23, 24 |
 | **Obligaciones del Arrendador** | 2682, 2687, 2688, 2692, 2694, 2708 |

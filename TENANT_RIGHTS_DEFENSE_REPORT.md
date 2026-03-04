@@ -36,6 +36,8 @@
    - 4.12 [Protection Against Retaliatory Eviction](#412-protection-against-retaliatory-eviction)
    - 4.13 [Rent Increase Burden of Proof — Art. 2738](#413-rent-increase-burden-of-proof--art-2738-she-never-met-it)
    - 4.14 [Right of First Refusal — Art. 2708 (5+ Year Tenancy)](#414-right-of-first-refusal--art-2708-5-year-tenancy-with-improvements)
+   - 4.15 [Notary Liability Under the Ley del Notariado](#415-notary-liability-under-the-ley-del-notariado-para-el-estado-de-quintana-roo)
+   - 4.16 [Holdover Provisions and Double Rent Penalty — Null and Void](#416-holdover-provisions-and-double-rent-penalty--null-and-void)
 5. [Defenses Available to Tenant](#5-defenses-available-to-tenant)
 6. [Counterclaims Against Landlord](#6-counterclaims-against-landlord)
 7. [Repair Reimbursement Table](#7-repair-reimbursement-table)
@@ -792,6 +794,173 @@ The $13,500 demanded in the bait-and-switch represents a 35% increase over the o
 - This is an additional layer of security against eviction by re-leasing to someone else
 - Combined with tácita reconducción, the tenant has both indefinite-term occupancy AND priority rights
 
+### 4.15 Notary Liability Under the Ley del Notariado para el Estado de Quintana Roo
+
+#### 4.15.1 A Mexican Notary Is Not a US Notary
+
+A critical distinction for this case: a Mexican *Notario Publico* is **not** equivalent to a US notary public. In the US, a notary simply verifies identity and witnesses signatures. In Mexico, a notary is a **licensed public official with active legal duties** including:
+
+- **Verifying the legality** of every clause in documents they certify
+- **Refusing to notarize** contracts containing illegal provisions
+- **Ensuring all parties have full understanding** and informed consent
+- **Certifying that the document complies** with applicable law
+- **Protecting all parties** — not just the party who hired them
+
+Mexican notaries have professional legal training equivalent to an attorney and are expected to exercise that expertise actively. They are gatekeepers of legality.
+
+#### 4.15.2 The Notary's Obligation to Verify Legality of Contract Terms
+
+Under the **Ley del Notariado para el Estado de Quintana Roo**, notaries are expressly required to refuse to authorize acts that are contrary to law or public order. This is not discretionary — it is a mandatory professional obligation.
+
+When the notary certified the lease contract containing a clause making the tenant responsible for all maintenance — a clause that directly contradicts **Art. 2687** of the Codigo Civil (mandatory landlord maintenance obligations) — the notary had a **legal obligation to refuse to certify that clause** or, at minimum, to flag it explicitly and explain its legal implications to both parties.
+
+The notary did neither. They certified an illegal clause as valid.
+
+#### 4.15.3 The Notary's Specific Failures in This Case
+
+The notary's breaches are cumulative and severe:
+
+| # | Failure | Governing Law |
+|---|---------|---------------|
+| 1 | **Certified an illegal maintenance clause** that contradicts Art. 2687 | Ley del Notariado — duty to refuse illegal acts |
+| 2 | **Proceeded without ensuring comprehension** by a non-Spanish speaker | Ley del Notariado — duty to verify understanding; Art. 383(d) |
+| 3 | **Did not provide or require interpretation** for a foreign national | Ley del Notariado — duty of care to all parties |
+| 4 | **Rushed the signing process** without adequate time for review | Art. 220 — duty to "cerciorarse" (make certain of) capacity |
+| 5 | **Failed to deliver a copy** to all parties | Ley del Notariado — delivery obligations |
+| 6 | **Conflict of interest** — chosen and directed by the landlord, paid for by the tenant | Professional ethics rules |
+
+Each of these is an **independent professional violation**. Together they represent a serious breach of notarial duty.
+
+#### 4.15.4 Governing Regulatory Framework
+
+Mexican notaries are regulated by three overlapping authorities:
+
+1. **Ley del Notariado para el Estado de Quintana Roo** — the state notary law, which defines professional obligations, duties of care, and grounds for disciplinary action
+2. **Colegio de Notarios de Quintana Roo** — the professional disciplinary body that investigates complaints and can impose sanctions including suspension or revocation of the notary's *patente* (license)
+3. **Codigo Civil de Quintana Roo** — specifically Arts. 87, 98, and 220 on professional liability, and Arts. 383(d), 384, 388 on nullity for lack of informed consent
+
+The notary law explicitly requires notaries to refuse to authorize acts that are contrary to law or public order. Certifying a clause that violates Art. 2687 (mandatory landlord maintenance) and certifying a document signed by a party who didn't understand the language (Art. 383(d)) are exactly the kind of acts the notary was obligated to reject.
+
+#### 4.15.5 Why This Matters for the Case
+
+The illegal clauses in the contract are not just voidable — they arguably should never have been certified in the first place.
+
+**Legal arguments arising from notary failure:**
+
+1. **The clause is null under Art. 13** — contrary to public order law (normas de orden publico are non-waivable)
+2. **The notary had an independent duty to catch and reject it** — their failure is professional misconduct
+3. **The tenant paid the notary fee** — the notary owed the tenant a direct duty of protection
+4. **The notary's certification creates a false appearance of legality** — the tenant reasonably relied on the notary's professional role as a guarantee that the contract was legal
+5. **The notary is independently liable under Art. 98** — professionals who cause damage in the exercise of their duties are liable for damages and indemnification
+
+#### 4.15.6 The Complaint Process — Colegio de Notarios de Quintana Roo
+
+A formal complaint (*queja*) to the Colegio de Notarios de Quintana Roo:
+
+- **Costs nothing** to file
+- Creates **significant professional pressure** — a notary under investigation faces potential sanctions
+- Puts the notary in a position where they may **cooperate rather than face disciplinary proceedings**
+- A notary facing a complaint has strong incentive to **acknowledge the procedural failures** rather than defend them
+- That acknowledgment becomes **powerful evidence** in any subsequent legal proceeding
+
+**How to file:**
+1. Draft a formal written complaint addressed to the Colegio de Notarios de Quintana Roo
+2. Identify the notary (Notario Publico No. 67, Luis Palacios, Cancun)
+3. Detail each specific failure (see table in 4.15.3)
+4. Attach evidence: the contract itself (showing illegal clauses), WhatsApp messages (showing the language barrier), and any proof the tenant paid the notary fee
+5. Request: investigation of professional misconduct, and that the Colegio require the notary to provide certified copies of all instruments in the notarial protocol relating to this tenancy
+
+**Strategic value:** Even before the complaint is formally resolved, the mere filing changes the dynamic. The notary — who has been the landlord's documentation ally — becomes a potential liability. The notary's incentive shifts from protecting the landlord's interests to protecting their own license.
+
+### 4.16 Holdover Provisions and Double Rent Penalty — Null and Void
+
+#### 4.16.1 The Clause in Question
+
+The landlord's contracts contain a "Conventional Penalty" clause (Clause 13 / *Decima Tercera*) imposing **double rent** (2x the monthly rent) as a penalty. The 2026 bait-and-switch contract added a new holdover paragraph:
+
+> *"Ahora bien, si la Arrendadora tuviere que promover la desocupacion por haber vencido el Contrato, los Arrendatarios pagaran la Pena Convencional por cada mes de ocupacion posterior al vencimiento, independientemente de la Contraprestacion que se continue devengando **sin que el Contrato se considere renovado.**"*
+>
+> Translation: "Furthermore, if the Landlord must pursue eviction proceedings due to the Contract having expired, the Tenants shall pay the Contractual Penalty for each month of occupancy after expiration, regardless of the Consideration that continues to accrue, **without the Contract being considered renewed.**"
+
+This clause attempts three things simultaneously:
+1. Impose **double rent** ($27,000/month) for staying after contract expiration
+2. Extract this penalty **on top of** regular rent (not instead of it)
+3. **Explicitly defeat tacita reconduccion** by declaring the contract "not renewed"
+
+All three are legally indefensible.
+
+#### 4.16.2 Tacita Reconduccion Eliminates the Holdover Period Entirely
+
+**Art. 2739** provides that if the tenant continues in possession after the lease expires and the landlord does not oppose, the lease renews automatically for an indefinite term under the same conditions.
+
+This is a **statutory right** — it operates by force of law, not by contractual agreement. The key legal principles:
+
+1. **Tacita reconduccion is triggered by operation of law** (Art. 2739), not by the contract. A contractual clause cannot override a statutory provision.
+
+2. **Once tacita reconduccion activates, there IS no "holdover period."** The tenant is not "holding over" — they are occupying under a legally renewed lease. The concept of holdover ceases to exist because the lease continues.
+
+3. **The landlord's contract expires March 11, 2026. Tacita reconduccion activates March 12, 2026.** From that date forward, the tenant occupies under a valid, indefinite-term lease at $12,000/month. There is no gap, no holdover, no expiration to trigger the penalty.
+
+4. **The clause "sin que el Contrato se considere renovado" directly contradicts Art. 2739.** The Civil Code says the contract IS renewed by operation of law. The landlord's clause says it is NOT renewed. The statute wins. Always.
+
+#### 4.16.3 Punitive Holdover Clauses Contradict Statutory Tenant Rights — Null Under Art. 13
+
+> **Art. 13:** "Los actos ejecutados contra el tenor de las leyes prohibitivas o de interes publico seran nulos de pleno derecho."
+>
+> Translation: Acts executed contrary to prohibitive laws or laws of public interest shall be null by operation of law.
+
+The holdover penalty clause is null for multiple independent reasons:
+
+**Reason 1: Contradicts Art. 2739 (Tacita Reconduccion)**
+Art. 2739 is a tenant protection provision of public order. A contractual clause that attempts to negate a statutory tenant right by imposing punitive consequences for exercising that right is contrary to a law of public interest and therefore null under Art. 13.
+
+**Reason 2: Contradicts Art. 2709 (Non-Waivable Rights)**
+> **Art. 2709:** "Cualquier estipulacion que imponga al arrendatario obligaciones mas onerosas que las expresamente senaladas en este Codigo, sera nula."
+>
+> Translation: Any stipulation that imposes on the tenant obligations more onerous than those expressly indicated in this Code shall be null.
+
+The Code does not impose a double-rent penalty for remaining in possession after lease expiration — it provides for automatic renewal. A clause imposing 2x rent as a holdover penalty is "more onerous" than the Code requires and is therefore **null by express statutory command**.
+
+**Reason 3: Contradicts Art. 2738 (Rent Increase Limits)**
+Art. 2738 caps rent increases at 10% annually and requires the landlord to prove market justification. A clause that doubles the rent overnight from $13,500 to $27,000 (or from $12,000 to $24,000) circumvents the statutory cap on rent increases. It is a disguised rent increase of 100%, far exceeding the 10% legal maximum.
+
+**Reason 4: The Clause is Unconscionable (Art. 24)**
+> **Art. 24:** Acts exploiting extreme ignorance or inexperience to obtain excessive and disproportionate profit are null.
+
+A penalty that doubles the rent — extractable monthly, on top of regular rent, creating a potential liability of $27,000+ per month — is "evidentemente desproporcionado" (evidently disproportionate), especially when imposed on a tenant who demonstrably never understood the clause.
+
+#### 4.16.4 A Non-Spanish Speaker Cannot Be Bound by Penalty Clauses They Never Knew Existed
+
+This is the strongest argument of all, and it layers perfectly with the language barrier analysis from Section 4.1:
+
+**Layer 1: The will never existed (Art. 383(d))**
+A person who does not know the language of the contract has no manifestation of will. If the will does not exist, the penalty clause has no binding force. This is absolute nullity — imprescriptible, non-waivable, and incurable.
+
+**Layer 2: The contract was never provided to the tenant**
+The landlord never gave the tenant a copy of the signed contract. The tenant has never had the opportunity to read the penalty clause even with the aid of a translator. You cannot enforce a penalty against someone who has never been given the document containing it.
+
+**Layer 3: The clause was added without disclosure (Year 2)**
+The holdover penalty paragraph was **not present** in the Year 1 (2022) contract. It was added in the Year 2 (2023) contract — the same contract where the landlord told the tenants "only the price changed." The tenants were actively deceived about the existence of this clause.
+
+**Layer 4: No attorney present when the clause was introduced**
+Year 1 was signed with the tenant's attorney present. Year 2 — when the holdover penalty was added — was signed **without an attorney**. The landlord waited until the attorney was absent to introduce the punitive clause, while falsely assuring the tenants that "nothing changed except the price."
+
+**Layer 5: The signing was rushed**
+The Year 2 contract was sent the morning of the signing (3/6/23 at 9:26 AM), with the appointment that same afternoon. Even a Spanish speaker would not have had adequate time for meaningful review. For a non-Spanish speaker without an attorney, review was impossible.
+
+**Combined effect:** The penalty clause fails on every level — statutory invalidity (Arts. 13, 2709, 2738, 2739), consent defect (Art. 383(d)), fraud in formation (Art. 198 — dolo), and unconscionability (Art. 24). It is unenforceable under any theory.
+
+#### 4.16.5 Comparison of Penalty Clauses Across Contracts
+
+| Element | Year 1 (2022) | Year 2 (2023) | 2026 Bait-and-Switch |
+|---------|--------------|--------------|---------------------|
+| **Double rent penalty** | Yes — for Clause 9 breaches only | Yes — for Clause 9 breaches only | Yes — for Clause 9 breaches |
+| **Holdover penalty** | **NOT PRESENT** | **ADDED** (undisclosed) | Yes — with anti-reconduccion language |
+| **Anti-reconduccion clause** | **NOT PRESENT** | **NOT PRESENT** | **ADDED** — "sin que el Contrato se considere renovado" |
+| **Disclosed to tenant** | No (language barrier) | No (language + "only price changed") | N/A (tenant refused to sign) |
+
+The escalation is clear: each new contract adds more punitive provisions, never disclosed, while the landlord repeatedly claims "nothing changed."
+
 ---
 
 ## 5. DEFENSES AVAILABLE TO TENANT
@@ -842,8 +1011,8 @@ Any claim for rent differences older than 2 years is prescribed.
 **Evidence:** WhatsApp messages documenting promises made and broken
 
 ### Counterclaim 6: Professional Liability Claim Against Notary
-**Legal basis:** Arts. 87, 98, 220
-**Action:** File complaint with Colegio de Notarios de Quintana Roo; civil claim for damages caused by notary's negligence
+**Legal basis:** Arts. 87, 98, 220; Ley del Notariado para el Estado de Quintana Roo
+**Action:** File complaint with Colegio de Notarios de Quintana Roo; civil claim for damages caused by notary's negligence. The notary certified illegal clauses (violating Art. 2687), failed to ensure comprehension by a non-Spanish speaker (violating Art. 383(d) and the Ley del Notariado), and failed to deliver copies. See **Section 4.15** for comprehensive analysis of all six independent violations and the complaint process.
 
 ---
 
@@ -932,6 +1101,9 @@ After 5+ years with significant improvements, the tenant has priority over any n
 
 ### LOOPHOLE 18: Consignacion de Pago — Nuclear Defense Against Non-Payment Claims
 If the landlord starts refusing rent to manufacture non-payment grounds (Art. 2741-I), the tenant can judicially deposit rent with the court. This proves willingness and ability to pay, completely neutralizing any non-payment claim.
+
+### LOOPHOLE 19: Double Rent Holdover Penalty is Null — Four Independent Grounds (Arts. 13, 2709, 2738, 2739)
+The landlord's contract imposes double rent as a "conventional penalty" for staying after expiration, and the 2026 bait-and-switch version explicitly states the contract shall NOT be considered renewed. This clause is null on four independent grounds: (1) it contradicts Art. 2739 (tacita reconduccion operates by law — contract cannot override it), (2) it violates Art. 2709 (any clause more onerous than the Code is null), (3) it circumvents Art. 2738 (100% rent increase disguised as a penalty exceeds the 10% cap), and (4) it is unconscionable under Art. 24 (evidently disproportionate). Furthermore, the holdover paragraph was secretly added in Year 2 while the landlord told the tenant "only the price changed" — the tenant never knew it existed. See Section 4.16 for comprehensive analysis.
 
 ---
 
@@ -1027,7 +1199,7 @@ The **amparo** is a constitutional remedy that can **halt eviction proceedings e
 Filing a formal complaint with the **Procuraduria Federal del Consumidor** creates a public record of the dispute and triggers a conciliation process. Multiple complaints from different tenants (if other tenants exist in the building) multiply the pressure dramatically.
 
 ### 10.4 Notary Complaint (Colegio de Notarios)
-Filing a formal complaint with the **Colegio de Notarios de Quintana Roo** against the notary who processed the contract costs nothing and creates significant pressure. A notary under professional investigation becomes very cooperative. This also forces the landlord's documentation ally to become a potential liability.
+Filing a formal complaint with the **Colegio de Notarios de Quintana Roo** against the notary (No. 67, Luis Palacios, Cancun) costs nothing and creates significant pressure. The notary committed **six independent professional violations** (see Section 4.15.3): certifying an illegal maintenance clause that contradicts Art. 2687, proceeding without ensuring comprehension by a non-Spanish speaker, failing to require interpretation, rushing the signing, failing to deliver copies, and operating under a conflict of interest. Under the **Ley del Notariado para el Estado de Quintana Roo**, the notary was obligated to refuse to authorize these acts. A notary facing a complaint has strong incentive to acknowledge procedural failures rather than defend them — that acknowledgment becomes powerful evidence. This also forces the landlord's documentation ally to become a potential liability.
 
 ### 10.5 Municipal Habitability Inspection (Denuncia)
 Filing a **denuncia** with Puerto Morelos' municipal authorities citing habitability violations (broken water heater, non-functional toilet, drainage issues) triggers an official inspection. If the property fails, the landlord faces fines and an official repair order — completely independent of the civil dispute.
@@ -1229,7 +1401,7 @@ The tenant's legal position is exceptionally strong — and the current timeline
 | **Consent / Will** | 193, 194, 198, 203, 204, 205, 211 |
 | **Language / Will Does Not Exist** | 383(d) |
 | **Nullity Classification** | 384, 385, 386, 387, 388, 390, 394, 398, 401 |
-| **Notary Duties** | 220 |
+| **Notary Duties** | 220; Ley del Notariado para el Estado de Quintana Roo |
 | **Civil Liability** | 87, 98, 104 |
 | **Public Order / Weak Party** | 8, 13, 21, 23, 24 |
 | **Landlord Obligations** | 2682, 2687, 2688, 2692, 2694 |
